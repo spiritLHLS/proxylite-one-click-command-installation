@@ -45,7 +45,7 @@ It has below features:
 curl -L https://raw.githubusercontent.com/spiritLHLS/proxylite-one-click-command-installation/main/proxylite.sh -o proxylite.sh && chmod +x proxylite.sh && bash proxylite.sh
 ```
 
-After the registration link is registered, copy the token in the upper left corner, run my script, paste the token, and press Enter to start the installation.
+Once the registration link has been registered, use the ID in the top right hand corner, run this command, paste the ID and enter to start the installation.
 
 ### One command installation
 
