@@ -56,7 +56,7 @@ check_virt(){
 
 # 输入 proxylite 的个人 ID
 input_token(){
-  [ -z $ID ] && reading " Enter your ID, if you do not find it, open https://proxylite.ru/?r=JLEU2ZZQ: " ID
+  [ -z $ID ] && reading " Enter your ID, if you do not find it, open https://proxylite.ru/?r=JLEU2ZZQ : " ID
 }
 
 container_build(){
