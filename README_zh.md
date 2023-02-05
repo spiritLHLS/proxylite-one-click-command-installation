@@ -1,4 +1,4 @@
-# tproxylite-一键式命令安装
+# proxylite-一键式命令安装
 
 ## 介绍
 
