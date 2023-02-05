@@ -65,7 +65,9 @@ uninstall service
 
 ## Experience
 
-The benefits of this script are extremely low
+The benefits of this script are extremely low.
+
+The income is not even as good as the daily bonus on the front page of the website.
 
 ## Disclaimer
 
