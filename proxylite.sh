@@ -102,7 +102,7 @@ uninstall(){
 while getopts "UuT:t:" OPTNAME; do
   case "$OPTNAME" in
     'U'|'u' ) uninstall;;
-    'T'|'t' ) TMTOKEN=$OPTARG;;
+    'T'|'t' ) ID=$OPTARG;;
   esac
 done
 
