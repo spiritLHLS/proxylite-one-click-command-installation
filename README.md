@@ -8,7 +8,7 @@
 
 The proxylite is an option that allows users to earn money by sharing your traffic.
 
-** This platform has problems, some traffic to send spam, so this project weighs itself, the benefits is low and risk is extremely high! Never use on production machines (best not even touch)! **
+**This platform has problems, some traffic to send spam, so this project weighs itself, the benefits is low and risk is extremely high! Never use on production machines (best not even touch)!**
 
 You'll receive 
 
