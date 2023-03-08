@@ -78,7 +78,7 @@ container_build(){
   docker ps -a | awk '{print $NF}' | grep -qw "$NAME" && yellow " Remove the old proxylite container.\n " && docker rm -f "$NAME" >/dev/null 2>&1
 
   # 创建容器
-  yellow " Create the traffmonetizer container.\n "
+  yellow " Create the proxylite container.\n "
   docker run -de "USER_ID=$ID" --restart unless-stopped --name proxylite proxylite/proxyservice >/dev/null 2>&1
 
   # 创建 Towerwatch
